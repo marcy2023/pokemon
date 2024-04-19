@@ -13,8 +13,6 @@ Pour installer le projet, suivez ces étapes :
 Clonez le référentiel sur votre ordinateur local.
 
 *tapper*
-
-git clone https://github.com/ENDAMANE-ONDO-Sidoine/pok.git
 Accédez au répertoire du projet.
 
 *tapper*
